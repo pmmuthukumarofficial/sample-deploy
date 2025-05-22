@@ -1,0 +1,30 @@
+
+
+.danger
+{
+    background-color: red;
+    padding:20px;
+    margin:10px;
+    border-radius:10px;
+}
+
+.normal
+{
+    background-color: aqua;
+    padding: 10px;
+    margin: 10px;
+}
+
+.kids
+{
+    background-color: yellow;
+    padding: 10px;
+    margin: 10px;
+}
+
+.city-box
+{
+    padding:10px;
+    border-width:3px;
+    border-style:solid;
+}

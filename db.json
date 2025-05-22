@@ -1,0 +1,22 @@
+{
+    "accounts":[
+        {
+            "id":"muthu",
+            "username":"muthu",
+            "password":"123",
+            "fullName":"Muthukumar",
+            "role":"user"
+        },
+        {
+            "id":"syam",
+            "username":"syam",
+            "password":"abc",
+            "fullName":"syam",
+            "role":"admin"
+        }
+    ],
+
+    "products":[
+        
+    ]
+}

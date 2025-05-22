@@ -1,0 +1,22 @@
+
+
+.navbar
+{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 10px;
+}
+
+#logo img
+{
+    width: 150px;
+}
+
+.menu ul{
+    display: flex;
+}
+
+.menu ul li{
+    margin-right: 10px;
+    list-style-type: none;
+}

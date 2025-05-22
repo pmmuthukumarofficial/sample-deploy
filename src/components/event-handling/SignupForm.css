@@ -1,0 +1,27 @@
+
+.form-box{
+    max-width: 400px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.form-ele{
+    margin-top: 10px;
+    outline: none;
+    border: 1px solid rgb(193, 192, 192);
+    padding: 5px 0;
+}
+
+.form-ele::placeholder
+{
+   padding-left:10px;
+}
+
+.btn-submit{    
+    /* background-color: blue; */
+    outline: none;
+    border: none;
+    background-color: aquamarine;
+    padding: 10px 20px;
+}
