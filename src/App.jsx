@@ -121,15 +121,16 @@ function App() {
 
 
 
-        <Router>
+        {/* <Router>
 
             <Routes>
                 <Route path='/' element={<CRUD />}></Route>
                 <Route path='/add-student' element={<AddStudent />} ></Route>
                 <Route path='/edit-student/:id' element={<UpdateStudent />}></Route>
             </Routes>
-        </Router>
+        </Router> */}
 
+        <Home />
     </>
   )
 }
